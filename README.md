@@ -26,27 +26,6 @@ A simple Python utility to organize files by extension and mark folders that had
 ```bash
 python File_Sorter_.py
 ```
-
-## Example
-
-Before running the script:
-
-```
-test_data_/nigga/JPEG/photo.jpg
-```
-
-After running the script:
-
-```
-test_data_/JPG/photo.jpg
-```
-
-And the source folder will be renamed to:
-
-```
-test_data_/nigga-data extractid from-
-```
-
 ## Notes
 
 - The root source folder itself is not renamed.
