@@ -3,7 +3,7 @@ import shutil
 
 # Change this path to the folder you want to organize.
 # Example: r"C:\Users\YourName\Downloads"
-SOURCE_FOLDER = r"D:\File_Sorter_\test_data_"
+SOURCE_FOLDER = r"******path to the folder you want to organize******"
 
 # This list stores all files before moving them.
 # This helps when files are inside many nested folders.
